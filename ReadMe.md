@@ -8,17 +8,31 @@
 
 1. create file with .batman
 2. request
+3. run `python read filename`
+
+### write your first with batman
 <br />
 in file, you can add somethin like: link, method
 <br />
 link: your url
 <br />
 method: GET
+<br />
+
+**You must put a space after the attribute**
+<br />
+code
+<br />
+
+```
+link: http://127.0.0.1:8000/
+method: GET
+```
 
 <br />
-** You must put a space after the attribute **
+-------------------------------------------------
+<br />
 
-3. run `python read filename`
 
 response like this:
 ```
