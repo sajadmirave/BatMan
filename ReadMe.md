@@ -8,11 +8,15 @@
 
 1. create file with .batman
 2. request
+<br />
 in file, you can add somethin like: link, method
+<br />
 link: your url
+<br />
 method: GET
 
-! You must put a space after the attribute
+<br />
+** You must put a space after the attribute **
 
 3. run `python read filename`
 
